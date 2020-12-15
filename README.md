@@ -1,6 +1,6 @@
 # dist-node
 ---
 >'*Distributed Systems with Node.js*
->*Building Enterprise-Ready Backend Services*'
+>*Building Enterprise-Ready Backend Services*'by **Thomas Hunter II**
 ---
--**Thomas Hunter II**
+>Exercises contained within this book
